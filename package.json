@@ -35,7 +35,7 @@
   "dependencies": {
     "@material-ui/core": "^4.9.14",
     "@material-ui/icons": "^4.9.1",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "basis-client": "^0.0.28",
     "basis-components": "^0.0.18",
     "basis-server": "^0.0.32",
